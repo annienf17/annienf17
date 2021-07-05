@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annienf17
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on passionate developers
+- 💞️ I’m looking to collaborate with passionate frontend and software developers
 - 📫 How to reach me a.ulanskaxxi@gmail.com
 
 <!---
