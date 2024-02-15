@@ -9,7 +9,12 @@
     <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,vscode,wordpress,git,github,html,css,sass,js,react" />
   </a>
 </p>
-
+- 💞️ and soon in: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,docker,django" />
+  </a>
+</p>
 <!---
 annienf17/annienf17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
