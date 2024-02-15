@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,vscode,wordpress,mysql,php,git,github,html,css,sass,js,react" />
   </a>
 </p>
-- 💞️ I am in training in:  
+💞️ I am in training in:  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,jest,docker" />
