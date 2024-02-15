@@ -6,7 +6,7 @@
 - 💞️ I am skilled in: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,wordpress,gitHub,html,css,sass,js,react" />
+    <img src="https://skillicons.dev/icons?i=wordpress,git,github,html,css,sass,js,react,figma,xd,vscode,ps" />
   </a>
 </p>
 
