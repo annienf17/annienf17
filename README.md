@@ -6,11 +6,11 @@
 - 📫 How to reach me: [a.ulanskaxxi@gmail.com](mailto:a.ulanskaxxi@gmail.com)
 
 ## 💞️ I am skilled in:
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" style="margin-right: 200px;">
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
   </a>
 
@@ -71,6 +71,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </a>
-</p>
+</div>
 
 
