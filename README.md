@@ -53,8 +53,6 @@
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
 </p>
-
-## 💞️ I am in training in:
 <p align="center">
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
