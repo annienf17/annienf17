@@ -13,7 +13,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
   </a>
-<span width="20px"></span>
+<span width="20"></span>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" />
   </a>
