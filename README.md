@@ -52,8 +52,6 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
-</p>
-<p align="center">
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   </a>
