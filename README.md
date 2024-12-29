@@ -6,7 +6,7 @@
 - 📫 How to reach me: [a.ulanskaxxi@gmail.com](mailto:a.ulanskaxxi@gmail.com)
 
 ## 💞️ I am skilled in:
-<p align="center">
+
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
