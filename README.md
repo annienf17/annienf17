@@ -6,14 +6,14 @@
 - 📫 How to reach me: [a.ulanskaxxi@gmail.com](mailto:a.ulanskaxxi@gmail.com)
 
 ## 💞️ I am skilled in:
-<div style="border: 2px solid white; display: inline-block;">
+<span style="border: 2px solid #ffffff; display: inline-block;">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
   </a>
-</div>
+</span>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" />
   </a>
