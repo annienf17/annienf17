@@ -10,7 +10,7 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" style="margin-right: 200px;">
     <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
   </a>
 
