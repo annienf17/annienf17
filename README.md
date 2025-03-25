@@ -1,7 +1,6 @@
 # Hi, I’m Annie (@annienf17) 👋
 
 - 👀 I’m passionate about technology and love to code.
-- 🌱 Since February 2023, I’ve been expanding my skills through an 18-month Full Stack Developer course.
 - 💞️ I’m looking to collaborate with passionate frontend and software developers.
 - 📫 You can reach me at: [a.ulanskaxxi@gmail.com](mailto:a.ulanskaxxi@gmail.com)
 
