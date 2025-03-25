@@ -62,9 +62,6 @@
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-</a>
 <a href="https://jestjs.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
 </a>
